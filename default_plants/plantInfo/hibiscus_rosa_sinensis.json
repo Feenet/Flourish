@@ -1,0 +1,137 @@
+{
+  "predictedOrgans": [
+    {
+      "image": "284e73fb7521165a3a8667d86b377c90",
+      "organ": "flower",
+      "score": 0.87192
+    }
+  ],
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Hibiscus rosa-sinensis L.",
+  "results": [
+    {
+      "score": 0.76962,
+      "species": {
+        "scientificNameWithoutAuthor": "Hibiscus rosa-sinensis",
+        "commonNames": ["Hawaiian hibiscus", "Hibiscus", "गुड़हल"],
+        "scientificName": "Hibiscus rosa-sinensis L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Vitaly Gaidai",
+          "license": "cc-by-sa",
+          "date": { "timestamp": 1589012335445, "string": "May 9, 2020" },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/516891173e8b8665fd2ed884c86af9d86beb0c6a",
+            "m": "https://bs.plantnet.org/image/m/516891173e8b8665fd2ed884c86af9d86beb0c6a",
+            "s": "https://bs.plantnet.org/image/s/516891173e8b8665fd2ed884c86af9d86beb0c6a"
+          },
+          "citation": "Vitaly Gaidai / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.06912,
+      "species": {
+        "scientificNameWithoutAuthor": "Hibiscus fragilis",
+        "commonNames": [
+          "Mandrinette",
+          "Mauritian Hibiscus",
+          "Fragile Hibiscus"
+        ],
+        "scientificName": "Hibiscus fragilis DC."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "janousek.marty",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1726912627567,
+            "string": "September 21, 2024"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/e82091b6ffda1662b76de1acc4dd46f594f76ee5",
+            "m": "https://bs.plantnet.org/image/m/e82091b6ffda1662b76de1acc4dd46f594f76ee5",
+            "s": "https://bs.plantnet.org/image/s/e82091b6ffda1662b76de1acc4dd46f594f76ee5"
+          },
+          "citation": "janousek.marty / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.03263,
+      "species": {
+        "scientificNameWithoutAuthor": "Hibiscus moscheutos",
+        "commonNames": [
+          "Crimsoneyed rosemallow",
+          "Swamp rose-mallow",
+          "Rose of Sharon"
+        ],
+        "scientificName": "Hibiscus moscheutos L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Selai Valentine",
+          "license": "cc-by-sa",
+          "date": { "timestamp": 1642045397407, "string": "January 13, 2022" },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/82a030328f5b4ec4afb12924d4e9eefdbc0ac47c",
+            "m": "https://bs.plantnet.org/image/m/82a030328f5b4ec4afb12924d4e9eefdbc0ac47c",
+            "s": "https://bs.plantnet.org/image/s/82a030328f5b4ec4afb12924d4e9eefdbc0ac47c"
+          },
+          "citation": "Selai Valentine / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00574,
+      "species": {
+        "scientificNameWithoutAuthor": "Hibiscus sabdariffa",
+        "commonNames": ["Indian-sorrel", "Roselle", "Jamaica-sorrel"],
+        "scientificName": "Hibiscus sabdariffa L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "zakaria britel",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1601463239852,
+            "string": "September 30, 2020"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/5e011de2f3a859224bd803e0711660dcc58fc8df",
+            "m": "https://bs.plantnet.org/image/m/5e011de2f3a859224bd803e0711660dcc58fc8df",
+            "s": "https://bs.plantnet.org/image/s/5e011de2f3a859224bd803e0711660dcc58fc8df"
+          },
+          "citation": "zakaria britel / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00514,
+      "species": {
+        "scientificNameWithoutAuthor": "Hibiscus boryanus",
+        "commonNames": [],
+        "scientificName": "Hibiscus boryanus DC."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Diego Alex",
+          "license": "cc-by-sa",
+          "date": { "timestamp": 1706721105316, "string": "January 31, 2024" },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/11b8680d5167a576daf993eedb5be25c7bfc4c88",
+            "m": "https://bs.plantnet.org/image/m/11b8680d5167a576daf993eedb5be25c7bfc4c88",
+            "s": "https://bs.plantnet.org/image/s/11b8680d5167a576daf993eedb5be25c7bfc4c88"
+          },
+          "citation": "Diego Alex / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    }
+  ]
+}

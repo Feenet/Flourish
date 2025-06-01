@@ -1,0 +1,167 @@
+{
+  "query": {
+    "project": "all",
+    "images": [
+      "04d5054f33967063413fb07c9c680c02"
+    ],
+    "organs": [
+      "auto"
+    ],
+    "includeRelatedImages": true,
+    "noReject": false,
+    "type": null
+  },
+  "predictedOrgans": [
+    {
+      "image": "04d5054f33967063413fb07c9c680c02",
+      "filename": "test_plant.jpg",
+      "organ": "flower",
+      "score": 0.82162
+    }
+  ],
+  "language": "en",
+  "preferedReferential": "k-world-flora",
+  "bestMatch": "Leucojum vernum L.",
+  "results": [
+    {
+      "score": 0.90651,
+      "species": {
+        "scientificNameWithoutAuthor": "Leucojum vernum",
+        "commonNames": [
+          "Spring snowflake",
+          "Teardrop"
+        ],
+        "scientificName": "Leucojum vernum L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Jérôme B.",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1612887134681,
+            "string": "February 9, 2021"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/06a24e843975e4ae9ea3a4f242e7a8ac67e5e76a",
+            "m": "https://bs.plantnet.org/image/m/06a24e843975e4ae9ea3a4f242e7a8ac67e5e76a",
+            "s": "https://bs.plantnet.org/image/s/06a24e843975e4ae9ea3a4f242e7a8ac67e5e76a"
+          },
+          "citation": "Jérôme B. / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00667,
+      "species": {
+        "scientificNameWithoutAuthor": "Leucojum aestivum",
+        "commonNames": [
+          "Summer snowflake",
+          "Snowdrops",
+          "Loddon-lily"
+        ],
+        "scientificName": "Leucojum aestivum L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "machi",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1587219609891,
+            "string": "April 18, 2020"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/9ff899d6da0ca1bc71ba25b0e676d1132abba612",
+            "m": "https://bs.plantnet.org/image/m/9ff899d6da0ca1bc71ba25b0e676d1132abba612",
+            "s": "https://bs.plantnet.org/image/s/9ff899d6da0ca1bc71ba25b0e676d1132abba612"
+          },
+          "citation": "machi / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00656,
+      "species": {
+        "scientificNameWithoutAuthor": "Galanthus plicatus",
+        "commonNames": [
+          "Snowdrop",
+          "Pleated Snowdrop"
+        ],
+        "scientificName": "Galanthus plicatus M.Bieb."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Christophe Veillard",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1584280576934,
+            "string": "March 15, 2020"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/936d4a4051d2872aaaa72ed08ce8a7943228c078",
+            "m": "https://bs.plantnet.org/image/m/936d4a4051d2872aaaa72ed08ce8a7943228c078",
+            "s": "https://bs.plantnet.org/image/s/936d4a4051d2872aaaa72ed08ce8a7943228c078"
+          },
+          "citation": "Christophe Veillard / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00534,
+      "species": {
+        "scientificNameWithoutAuthor": "Galanthus nivalis",
+        "commonNames": [
+          "Snowdrop",
+          "Common snowdrop",
+          "Bulbous Violet"
+        ],
+        "scientificName": "Galanthus nivalis L."
+      },
+      "images": [
+        {
+          "organ": "flower",
+          "author": "Emanuele Capoferri",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1617130695157,
+            "string": "March 30, 2021"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/36faeebfee48d04b69767b62d6c6c74d02fbcfe4",
+            "m": "https://bs.plantnet.org/image/m/36faeebfee48d04b69767b62d6c6c74d02fbcfe4",
+            "s": "https://bs.plantnet.org/image/s/36faeebfee48d04b69767b62d6c6c74d02fbcfe4"
+          },
+          "citation": "Emanuele Capoferri / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    },
+    {
+      "score": 0.00489,
+      "species": {
+        "scientificNameWithoutAuthor": "Galanthus fosteri",
+        "commonNames": [],
+        "scientificName": "Galanthus fosteri Baker"
+      },
+      "images": [
+        {
+          "organ": "leaf",
+          "author": "KP Laer",
+          "license": "cc-by-sa",
+          "date": {
+            "timestamp": 1736933675859,
+            "string": "January 15, 2025"
+          },
+          "url": {
+            "o": "https://bs.plantnet.org/image/o/05d293b7674832cba6fd8a84fc8f2619f640e413",
+            "m": "https://bs.plantnet.org/image/m/05d293b7674832cba6fd8a84fc8f2619f640e413",
+            "s": "https://bs.plantnet.org/image/s/05d293b7674832cba6fd8a84fc8f2619f640e413"
+          },
+          "citation": "KP Laer / Pl@ntNet, cc-by-sa"
+        }
+      ]
+    }
+  ],
+  "version": "2025-01-17 (7.3)"
+}
