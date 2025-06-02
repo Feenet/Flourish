@@ -18,6 +18,7 @@ Flourish transforms productivity into a journey of growth—both personal and bo
 - **Configurable Settings** to adjust session durations
 - **Audio Alerts** when sessions complete
 - **Multiple Plant Animations** unlocked through plant collection
+<img width="277" alt="Screenshot 2025-06-02 at 4 47 02 PM" src="https://github.com/user-attachments/assets/50bf22d8-7fbf-4068-b526-ece4ec27dc8a" />
 
 ### 🌿 **Plant Collection Tab**
 - **Real-time Plant Identification** using camera integration
