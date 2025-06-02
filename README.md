@@ -9,7 +9,6 @@
 
 Flourish transforms productivity into a journey of growth—both personal and botanical. By combining the proven Pomodoro Technique with plant identification and collection, users can cultivate focus while building their digital garden. As you work in focused intervals, watch animated plants grow in real-time, symbolizing your concentration and progress.
 
-**Created by:** Feenet Oli, Adiah Amadou, Evan Thompson
 
 ## ✨ Features
 
