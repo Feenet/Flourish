@@ -18,7 +18,11 @@ Flourish transforms productivity into a journey of growth—both personal and bo
 - **Configurable Settings** to adjust session durations
 - **Audio Alerts** when sessions complete
 - **Multiple Plant Animations** unlocked through plant collection
-<img width="277" alt="Screenshot 2025-06-02 at 4 47 02 PM" src="https://github.com/user-attachments/assets/50bf22d8-7fbf-4068-b526-ece4ec27dc8a" />
+  
+<div align="center">
+<img width="738" alt="Screenshot 2025-06-02 at 4 58 02 PM" src="https://github.com/user-attachments/assets/1384a1f5-d6dd-4774-b7ca-3c90ed6fc39e" />
+
+</div>
 
 ### 🌿 **Plant Collection Tab**
 - **Real-time Plant Identification** using camera integration
@@ -28,11 +32,19 @@ Flourish transforms productivity into a journey of growth—both personal and bo
 - **Default Plant Collection** to get you started
 - **Achievement Notifications** when unlocking new plant icons
 
+<div align="center">
+<img width="557" alt="Screenshot 2025-06-02 at 4 58 17 PM" src="https://github.com/user-attachments/assets/0e6a0d11-558e-42a6-ab89-22d831c801d9" />
+</div>
+
 ### 🏆 **Badges Tab**
 - **Milestone Tracking** based on plant collection progress
 - **Visual Achievement Timeline** showing your journey
 - **Customizable Timer Icons** - use any unlocked plant in your focus sessions
 - **Progress Indicators** toward your next unlock
+
+<div align="center">
+  <img width="561" alt="Screenshot 2025-06-02 at 4 56 31 PM" src="https://github.com/user-attachments/assets/43777594-9fed-48ae-b82e-9f23f692cfa5" />
+</div>
 
 ## 🛠️ Technology Stack
 
@@ -87,8 +99,6 @@ Flourish transforms productivity into a journey of growth—both personal and bo
 
 - **Pl@ntNet API** for providing free plant identification services
 - **Flutter Community** for excellent documentation and resources
-- **Nature Enthusiasts** who inspired this unique productivity approach
-
 
 
 <div align="center">
